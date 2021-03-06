@@ -1,0 +1,37 @@
+DETAILS
+
+AUTHORS:
+
+JIAN LIM (29994055)
+JESSICA NGUYEN (29684471)
+DATE OF SUBMISSION: 23/10/2020
+
+CREDENTIALS:
+
+USER NAME: jack
+PASSWORD: jack
+
+MySQL DATABASE DETAILS:
+DATABASE NAME: fit2104_20s2_grizzly
+USERNAME: fit2104_20s2_grizzly
+PASSWORD: fAJ45CEXMV98
+
+FILENAME:
+
+schemaData.sql
+
+Contribution
+
+Jian Lim							Jessica
+
+All Product Pages						All Client Pages
+Multi product Edit						All Project Pages
+All category pages						Generate Client PDF
+All User pages							All Email Client Pages
+Login Page and User password checking	
+Product Images	
+Display Code page and links	
+Documentation Page and submission text	
+Session Checking for all pages	
+Setup bootstrap and did html/css for assignment	
+Created tables/schema for database
